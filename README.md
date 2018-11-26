@@ -1,2 +1,4 @@
 # hackerrank
-Solutions for Hackerrank problems
+Solutions for Hackerrank problems:
+ - Clique
+
