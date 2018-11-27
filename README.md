@@ -4,4 +4,5 @@ Solutions for Hackerrank problems:
  - Journey to the Moon
  - Kruskal
  - Minimum penalty path
+ - Prims
 
